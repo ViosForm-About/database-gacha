@@ -85,6 +85,15 @@
       "fileSize": 3447639,
       "addedBy": "JeryPets",
       "filePath": "GACHA/BASE WA BY SANZY SHARE KE PT AMPAS LU_1766640656959_73ftzk3y.zip"
+    },
+    "3": {
+      "id": 3,
+      "fileName": "Base_Web_Bug_1766640662950_jhuavnyd.zip",
+      "originalName": "Base_Web_Bug.zip",
+      "addedDate": "2025-12-25T05:31:03.305Z",
+      "fileSize": 3895,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/Base_Web_Bug_1766640662950_jhuavnyd.zip"
     }
   },
   "transactions": {
@@ -162,6 +171,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:30:58.826Z",
+  "lastUpdated": "2025-12-25T05:31:03.306Z",
   "version": "1.0.0"
 }
