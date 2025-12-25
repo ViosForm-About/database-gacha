@@ -1,1 +1,30 @@
-{}
+{
+  "users": {
+    "7569608923": {
+      "id": 7569608923,
+      "username": "JeryPets",
+      "firstName": "Jery - Help U",
+      "lastName": "",
+      "limit": 15,
+      "usedLimit": 0,
+      "totalGacha": 0,
+      "referralCount": 0,
+      "missionsCompleted": 0,
+      "referralBy": null,
+      "joinDate": "2025-12-25T02:43:29.674Z",
+      "lastLogin": "2025-12-25T02:43:29.674Z",
+      "lastReset": "2025-12-25T02:43:29.674Z",
+      "role": "user",
+      "totalSpent": 0,
+      "purchasedLimit": 0,
+      "completedMissions": [],
+      "isBanned": false
+    }
+  },
+  "items": {},
+  "transactions": {},
+  "missions": {},
+  "lastUpdated": "2025-12-25T02:43:29.674Z",
+  "totalUsers": 1,
+  "totalItems": 0
+}
