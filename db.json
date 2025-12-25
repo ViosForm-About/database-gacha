@@ -25,7 +25,24 @@
     }
   },
   "items": {},
-  "transactions": {},
+  "transactions": {
+    "3644d661-9b85-41a2-8f3b-b90ff6eed0c7": {
+      "id": "3644d661-9b85-41a2-8f3b-b90ff6eed0c7",
+      "userId": 7569608923,
+      "limitAmount": 15,
+      "nominal": 3000,
+      "adminFee": 315,
+      "totalAmount": 3315,
+      "paymentGateway": "rumahotp",
+      "userInfo": {
+        "username": "JeryPets",
+        "name": "Jery - Help U"
+      },
+      "status": "pending",
+      "createdAt": "2025-12-25T02:55:00.087Z",
+      "updatedAt": "2025-12-25T02:55:00.087Z"
+    }
+  },
   "missions": {
     "1": {
       "id": 1,
@@ -60,7 +77,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:46:12.593Z",
+  "lastUpdated": "2025-12-25T02:55:00.087Z",
   "totalUsers": 1,
   "totalItems": 0
 }
