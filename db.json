@@ -5,11 +5,11 @@
       "username": "JeryPets",
       "firstName": "Jery - Help U",
       "lastName": "",
-      "limit": 15,
+      "limit": 20,
       "usedLimit": 0,
       "totalGacha": 0,
       "referralCount": 0,
-      "missionsCompleted": 0,
+      "missionsCompleted": 1,
       "referralBy": null,
       "joinDate": "2025-12-25T02:46:10.657Z",
       "lastLogin": "2025-12-25T02:46:10.657Z",
@@ -17,8 +17,11 @@
       "role": "user",
       "totalSpent": 0,
       "purchasedLimit": 0,
-      "completedMissions": [],
-      "isBanned": false
+      "completedMissions": [
+        1
+      ],
+      "isBanned": false,
+      "lastUpdated": "2025-12-25T02:46:12.593Z"
     }
   },
   "items": {},
@@ -57,7 +60,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:46:11.559Z",
+  "lastUpdated": "2025-12-25T02:46:12.593Z",
   "totalUsers": 1,
   "totalItems": 0
 }
