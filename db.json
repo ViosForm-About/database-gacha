@@ -172,9 +172,30 @@
         "username": "JeryPets",
         "name": "Jery - Help U"
       },
-      "status": "pending",
+      "status": "processing",
       "createdAt": "2025-12-25T13:33:42.783Z",
-      "updatedAt": "2025-12-25T13:33:42.783Z"
+      "updatedAt": "2025-12-25T13:33:46.946Z",
+      "qrString": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540434345802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A0163043EAC",
+      "paymentData": {
+        "id": "RO2025122514334616856",
+        "status": "pending",
+        "method": "qris",
+        "currency": {
+          "type": "IDR",
+          "total": 3434,
+          "fee": 119,
+          "diterima": 3315
+        },
+        "total": 3434,
+        "fee": 119,
+        "diterima": 3315,
+        "qr_string": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540434345802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A0163043EAC",
+        "qr_image": "https://www.rumahotp.com/image/qr/RO2025122514334616856.png",
+        "created_at": "2025-12-25 20:33:46",
+        "created_at_ts": 1766669626448,
+        "expired_at": "2025-12-25 20:53:46",
+        "expired_at_ts": 1766670826448
+      }
     }
   },
   "missions": {
@@ -211,6 +232,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T13:33:42.783Z",
+  "lastUpdated": "2025-12-25T13:33:46.946Z",
   "version": "2.0.0"
 }
