@@ -233,6 +233,22 @@
         "expired_at": "2025-12-25 22:38:19",
         "expired_at_ts": 1766677099643
       }
+    },
+    "ad7a95bb-fddf-4120-b967-b73ae159488b": {
+      "id": "ad7a95bb-fddf-4120-b967-b73ae159488b",
+      "userId": 7569608923,
+      "limitAmount": 15,
+      "nominal": 3000,
+      "adminFee": 315,
+      "totalAmount": 3315,
+      "paymentGateway": "rumahotp",
+      "userInfo": {
+        "username": "JeryPets",
+        "name": "Jery - Help U"
+      },
+      "status": "pending",
+      "createdAt": "2025-12-25T15:26:15.800Z",
+      "updatedAt": "2025-12-25T15:26:15.800Z"
     }
   },
   "missions": {
@@ -269,6 +285,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T15:18:20.154Z",
+  "lastUpdated": "2025-12-25T15:26:15.800Z",
   "version": "2.0.0"
 }
