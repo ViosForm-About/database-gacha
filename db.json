@@ -94,6 +94,15 @@
       "fileSize": 3895,
       "addedBy": "JeryPets",
       "filePath": "GACHA/Base_Web_Bug_1766640662950_jhuavnyd.zip"
+    },
+    "4": {
+      "id": 4,
+      "fileName": "BASE 7.0.0_1766640671489_nlvi3zrp.zip",
+      "originalName": "BASE 7.0.0.zip",
+      "addedDate": "2025-12-25T05:31:13.320Z",
+      "fileSize": 2342979,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/BASE 7.0.0_1766640671489_nlvi3zrp.zip"
     }
   },
   "transactions": {
@@ -171,6 +180,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:31:03.306Z",
+  "lastUpdated": "2025-12-25T05:31:13.320Z",
   "version": "1.0.0"
 }
