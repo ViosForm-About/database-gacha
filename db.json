@@ -28,9 +28,9 @@
       "username": "JeryPets",
       "firstName": "Jery - Help U",
       "lastName": "",
-      "limit": 20,
-      "usedLimit": 0,
-      "totalGacha": 0,
+      "limit": 19,
+      "usedLimit": 1,
+      "totalGacha": 1,
       "referralCount": 0,
       "missionsCompleted": 1,
       "referralBy": null,
@@ -44,7 +44,8 @@
         1
       ],
       "isBanned": false,
-      "lastUpdated": "2025-12-25T02:46:12.593Z"
+      "lastUpdated": "2025-12-25T05:30:22.982Z",
+      "lastGacha": "2025-12-25T05:30:22.981Z"
     },
     "6976551745": {
       "id": 6976551745,
@@ -69,29 +70,23 @@
   "items": {
     "1": {
       "id": 1,
-      "fileName": "Apollo Cursed V4.0.zip",
-      "originalName": "Apollo Cursed V4.0.zip",
-      "addedDate": "2025-12-25T03:02:34.327Z",
-      "fileSize": 4457153,
-      "addedBy": "JeryPets"
-    },
-    "2": {
-      "id": 2,
       "fileName": "Bug-Api EndPoint_1766640598106_19n5basm.zip",
       "originalName": "Bug-Api EndPoint.zip",
       "addedDate": "2025-12-25T05:29:58.987Z",
       "fileSize": 31669,
       "addedBy": "JeryPets",
-      "filePath": "GACHA/Bug-Api EndPoint_1766640598106_19n5basm.zip"
+      "filePath": "GACHA/Bug-Api EndPoint_1766640598106_19n5basm.zip",
+      "lastVerified": "2025-12-25T05:30:22.981Z"
     },
-    "3": {
-      "id": 3,
+    "2": {
+      "id": 2,
       "fileName": "BASE TELEGRAM 10K_1766640617925_faax4r98.zip",
       "originalName": "BASE TELEGRAM 10K.zip",
       "addedDate": "2025-12-25T05:30:18.617Z",
       "fileSize": 9329,
       "addedBy": "JeryPets",
-      "filePath": "GACHA/BASE TELEGRAM 10K_1766640617925_faax4r98.zip"
+      "filePath": "GACHA/BASE TELEGRAM 10K_1766640617925_faax4r98.zip",
+      "lastVerified": "2025-12-25T05:30:22.981Z"
     }
   },
   "transactions": {
@@ -169,6 +164,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:30:18.617Z",
+  "lastUpdated": "2025-12-25T05:30:22.982Z",
   "version": "1.0.0"
 }
