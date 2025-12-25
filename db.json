@@ -28,9 +28,9 @@
       "username": "JeryPets",
       "firstName": "Jery - Help U",
       "lastName": "",
-      "limit": 19,
-      "usedLimit": 1,
-      "totalGacha": 1,
+      "limit": 20,
+      "usedLimit": 0,
+      "totalGacha": 0,
       "referralCount": 0,
       "missionsCompleted": 1,
       "referralBy": null,
@@ -44,8 +44,7 @@
         1
       ],
       "isBanned": false,
-      "lastUpdated": "2025-12-25T05:30:22.982Z",
-      "lastGacha": "2025-12-25T05:30:22.981Z"
+      "lastUpdated": "2025-12-25T02:46:12.593Z"
     },
     "6976551745": {
       "id": 6976551745,
@@ -70,23 +69,22 @@
   "items": {
     "1": {
       "id": 1,
-      "fileName": "Bug-Api EndPoint_1766640598106_19n5basm.zip",
-      "originalName": "Bug-Api EndPoint.zip",
-      "addedDate": "2025-12-25T05:29:58.987Z",
-      "fileSize": 31669,
-      "addedBy": "JeryPets",
-      "filePath": "GACHA/Bug-Api EndPoint_1766640598106_19n5basm.zip",
-      "lastVerified": "2025-12-25T05:30:22.981Z"
-    },
-    "2": {
-      "id": 2,
       "fileName": "BASE TELEGRAM 10K_1766640617925_faax4r98.zip",
       "originalName": "BASE TELEGRAM 10K.zip",
       "addedDate": "2025-12-25T05:30:18.617Z",
       "fileSize": 9329,
       "addedBy": "JeryPets",
       "filePath": "GACHA/BASE TELEGRAM 10K_1766640617925_faax4r98.zip",
-      "lastVerified": "2025-12-25T05:30:22.981Z"
+      "lastVerified": "2025-12-25T05:30:46.414Z"
+    },
+    "2": {
+      "id": 2,
+      "fileName": "BASE WA BY SANZY SHARE KE PT AMPAS LU_1766640656959_73ftzk3y.zip",
+      "originalName": "BASE WA BY SANZY SHARE KE PT AMPAS LU.zip",
+      "addedDate": "2025-12-25T05:30:58.826Z",
+      "fileSize": 3447639,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/BASE WA BY SANZY SHARE KE PT AMPAS LU_1766640656959_73ftzk3y.zip"
     }
   },
   "transactions": {
@@ -164,6 +162,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:30:22.982Z",
+  "lastUpdated": "2025-12-25T05:30:58.826Z",
   "version": "1.0.0"
 }
