@@ -54,12 +54,12 @@
       "limit": 15,
       "usedLimit": 0,
       "totalGacha": 0,
-      "referralCount": 1,
+      "referralCount": 0,
       "missionsCompleted": 0,
-      "referralBy": 6976551745,
-      "joinDate": "2025-12-25T05:12:42.095Z",
-      "lastLogin": "2025-12-25T05:12:42.095Z",
-      "lastReset": "2025-12-25T05:12:42.095Z",
+      "referralBy": null,
+      "joinDate": "2025-12-25T05:13:42.597Z",
+      "lastLogin": "2025-12-25T05:13:42.597Z",
+      "lastReset": "2025-12-25T05:13:42.597Z",
       "role": "user",
       "totalSpent": 0,
       "purchasedLimit": 0,
@@ -151,5 +151,5 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:12:42.096Z"
+  "lastUpdated": "2025-12-25T05:13:42.597Z"
 }
