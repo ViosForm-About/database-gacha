@@ -156,9 +156,9 @@
         "username": "JeryPets",
         "name": "Jery - Help U"
       },
-      "status": "pending",
+      "status": "cancelled",
       "createdAt": "2025-12-25T13:33:03.729Z",
-      "updatedAt": "2025-12-25T13:33:03.729Z"
+      "updatedAt": "2025-12-25T13:33:09.624Z"
     }
   },
   "missions": {
@@ -195,6 +195,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T13:33:03.729Z",
+  "lastUpdated": "2025-12-25T13:33:09.624Z",
   "version": "2.0.0"
 }
