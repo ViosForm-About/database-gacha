@@ -5,11 +5,11 @@
       "username": "Drrgamf",
       "firstName": "ʼThaiDafq`",
       "lastName": "",
-      "limit": 15,
+      "limit": 20,
       "usedLimit": 0,
       "totalGacha": 0,
       "referralCount": 0,
-      "missionsCompleted": 0,
+      "missionsCompleted": 1,
       "referralBy": null,
       "joinDate": "2025-12-25T02:57:00.903Z",
       "lastLogin": "2025-12-25T02:57:00.903Z",
@@ -17,8 +17,11 @@
       "role": "user",
       "totalSpent": 0,
       "purchasedLimit": 0,
-      "completedMissions": [],
-      "isBanned": false
+      "completedMissions": [
+        1
+      ],
+      "isBanned": false,
+      "lastUpdated": "2025-12-25T02:57:01.792Z"
     },
     "7569608923": {
       "id": 7569608923,
@@ -80,7 +83,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:57:00.903Z",
+  "lastUpdated": "2025-12-25T02:57:01.792Z",
   "totalUsers": 2,
   "totalItems": 0
 }
