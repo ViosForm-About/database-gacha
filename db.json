@@ -23,8 +23,41 @@
   },
   "items": {},
   "transactions": {},
-  "missions": {},
-  "lastUpdated": "2025-12-25T02:43:29.674Z",
+  "missions": {
+    "1": {
+      "id": 1,
+      "title": "Login Pertama",
+      "description": "Gunakan /start untuk pertama kali",
+      "reward": 5,
+      "type": "login",
+      "requirement": 1
+    },
+    "2": {
+      "id": 2,
+      "title": "Gacha Pemula",
+      "description": "Lakukan 10 kali gacha",
+      "reward": 10,
+      "type": "gacha",
+      "requirement": 10
+    },
+    "3": {
+      "id": 3,
+      "title": "Referral Starter",
+      "description": "Undang 3 teman melalui referral",
+      "reward": 15,
+      "type": "referral",
+      "requirement": 3
+    },
+    "4": {
+      "id": 4,
+      "title": "Pembeli Aktif",
+      "description": "Beli total 30 limit",
+      "reward": 20,
+      "type": "purchase",
+      "requirement": 30
+    }
+  },
+  "lastUpdated": "2025-12-25T02:43:30.528Z",
   "totalUsers": 1,
   "totalItems": 0
 }
