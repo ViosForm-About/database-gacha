@@ -55,6 +55,14 @@
       "addedDate": "2025-12-25T03:02:34.327Z",
       "fileSize": 4457153,
       "addedBy": "JeryPets"
+    },
+    "2": {
+      "id": 2,
+      "fileName": "base kosong (privat 8)_1766639439564_k1umx91r.zip",
+      "originalName": "base kosong (privat 8).zip",
+      "addedDate": "2025-12-25T05:10:40.108Z",
+      "fileSize": 6374,
+      "addedBy": "JeryPets"
     }
   },
   "transactions": {
@@ -132,7 +140,5 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T03:02:34.327Z",
-  "totalUsers": 2,
-  "totalItems": 1
+  "lastUpdated": "2025-12-25T05:10:40.108Z"
 }
