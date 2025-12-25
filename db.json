@@ -5,62 +5,26 @@
       "username": "JeryPets",
       "firstName": "Jery - Help U",
       "lastName": "",
-      "limit": 20,
+      "limit": 15,
       "usedLimit": 0,
       "totalGacha": 0,
       "referralCount": 0,
-      "missionsCompleted": 1,
+      "missionsCompleted": 0,
       "referralBy": null,
-      "joinDate": "2025-12-25T02:43:57.494Z",
-      "lastLogin": "2025-12-25T02:43:57.494Z",
-      "lastReset": "2025-12-25T02:43:57.494Z",
+      "joinDate": "2025-12-25T02:46:10.657Z",
+      "lastLogin": "2025-12-25T02:46:10.657Z",
+      "lastReset": "2025-12-25T02:46:10.657Z",
       "role": "user",
       "totalSpent": 0,
       "purchasedLimit": 0,
-      "completedMissions": [
-        1
-      ],
-      "isBanned": false,
-      "lastUpdated": "2025-12-25T02:43:59.682Z"
+      "completedMissions": [],
+      "isBanned": false
     }
   },
   "items": {},
   "transactions": {},
-  "missions": {
-    "1": {
-      "id": 1,
-      "title": "Login Pertama",
-      "description": "Gunakan /start untuk pertama kali",
-      "reward": 5,
-      "type": "login",
-      "requirement": 1
-    },
-    "2": {
-      "id": 2,
-      "title": "Gacha Pemula",
-      "description": "Lakukan 10 kali gacha",
-      "reward": 10,
-      "type": "gacha",
-      "requirement": 10
-    },
-    "3": {
-      "id": 3,
-      "title": "Referral Starter",
-      "description": "Undang 3 teman melalui referral",
-      "reward": 15,
-      "type": "referral",
-      "requirement": 3
-    },
-    "4": {
-      "id": 4,
-      "title": "Pembeli Aktif",
-      "description": "Beli total 30 limit",
-      "reward": 20,
-      "type": "purchase",
-      "requirement": 30
-    }
-  },
-  "lastUpdated": "2025-12-25T02:43:59.682Z",
+  "missions": {},
+  "lastUpdated": "2025-12-25T02:46:10.658Z",
   "totalUsers": 1,
   "totalItems": 0
 }
