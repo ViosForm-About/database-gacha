@@ -208,6 +208,15 @@
       "fileSize": 6519,
       "addedBy": "JeryPets",
       "filePath": "GACHA/BASE VOID V12_1766640805147_0djdz784.7z"
+    },
+    "16": {
+      "id": 16,
+      "fileName": "base tele no db_1766640811525_i0epsdrl.zip",
+      "originalName": "base tele no db.zip",
+      "addedDate": "2025-12-25T05:33:32.596Z",
+      "fileSize": 15491,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/base tele no db_1766640811525_i0epsdrl.zip"
     }
   },
   "transactions": {
@@ -285,6 +294,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:33:26.155Z",
+  "lastUpdated": "2025-12-25T05:33:32.596Z",
   "version": "1.0.0"
 }
