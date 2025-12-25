@@ -45,6 +45,25 @@
       ],
       "isBanned": false,
       "lastUpdated": "2025-12-25T02:46:12.593Z"
+    },
+    "6976551745": {
+      "id": 6976551745,
+      "username": "suryakit12",
+      "firstName": "PiosPed",
+      "lastName": "",
+      "limit": 15,
+      "usedLimit": 0,
+      "totalGacha": 0,
+      "referralCount": 1,
+      "missionsCompleted": 0,
+      "referralBy": 6976551745,
+      "joinDate": "2025-12-25T05:12:42.095Z",
+      "lastLogin": "2025-12-25T05:12:42.095Z",
+      "lastReset": "2025-12-25T05:12:42.095Z",
+      "role": "user",
+      "totalSpent": 0,
+      "purchasedLimit": 0,
+      "completedMissions": []
     }
   },
   "items": {
@@ -54,14 +73,6 @@
       "originalName": "Apollo Cursed V4.0.zip",
       "addedDate": "2025-12-25T03:02:34.327Z",
       "fileSize": 4457153,
-      "addedBy": "JeryPets"
-    },
-    "2": {
-      "id": 2,
-      "fileName": "base kosong (privat 8)_1766639439564_k1umx91r.zip",
-      "originalName": "base kosong (privat 8).zip",
-      "addedDate": "2025-12-25T05:10:40.108Z",
-      "fileSize": 6374,
       "addedBy": "JeryPets"
     }
   },
@@ -140,5 +151,5 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:10:40.108Z"
+  "lastUpdated": "2025-12-25T05:12:42.096Z"
 }
