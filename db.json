@@ -172,6 +172,15 @@
       "fileSize": 6374,
       "addedBy": "JeryPets",
       "filePath": "GACHA/base kosong (privat 8)_1766640772415_xawg92t8.zip"
+    },
+    "12": {
+      "id": 12,
+      "fileName": "BASE RAJA_1766640781034_d0bc6bmj.zip",
+      "originalName": "BASE RAJA.zip",
+      "addedDate": "2025-12-25T05:33:03.157Z",
+      "fileSize": 238031,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/BASE RAJA_1766640781034_d0bc6bmj.zip"
     }
   },
   "transactions": {
@@ -249,6 +258,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:32:53.097Z",
+  "lastUpdated": "2025-12-25T05:33:03.157Z",
   "version": "1.0.0"
 }
