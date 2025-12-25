@@ -106,6 +106,22 @@
         "expired_at": "2025-12-25 10:17:20",
         "expired_at_ts": 1766632640221
       }
+    },
+    "354e2722-e655-477d-9cd3-14e77f95fa24": {
+      "id": "354e2722-e655-477d-9cd3-14e77f95fa24",
+      "userId": 1421146514,
+      "limitAmount": 15,
+      "nominal": 3000,
+      "adminFee": 315,
+      "totalAmount": 3315,
+      "paymentGateway": "rumahotp",
+      "userInfo": {
+        "username": "Drrgamf",
+        "name": "ʼThaiDafq`"
+      },
+      "status": "pending",
+      "createdAt": "2025-12-25T12:15:52.088Z",
+      "updatedAt": "2025-12-25T12:15:52.088Z"
     }
   },
   "missions": {
@@ -142,6 +158,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T12:12:37.437Z",
+  "lastUpdated": "2025-12-25T12:15:52.088Z",
   "version": "2.0.0"
 }
