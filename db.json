@@ -159,6 +159,22 @@
       "status": "cancelled",
       "createdAt": "2025-12-25T13:33:03.729Z",
       "updatedAt": "2025-12-25T13:33:09.624Z"
+    },
+    "06834046-2d87-4453-8de5-128a46bf27b2": {
+      "id": "06834046-2d87-4453-8de5-128a46bf27b2",
+      "userId": 7569608923,
+      "limitAmount": 15,
+      "nominal": 3000,
+      "adminFee": 315,
+      "totalAmount": 3315,
+      "paymentGateway": "rumahotp",
+      "userInfo": {
+        "username": "JeryPets",
+        "name": "Jery - Help U"
+      },
+      "status": "pending",
+      "createdAt": "2025-12-25T13:33:42.783Z",
+      "updatedAt": "2025-12-25T13:33:42.783Z"
     }
   },
   "missions": {
@@ -195,6 +211,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T13:33:09.624Z",
+  "lastUpdated": "2025-12-25T13:33:42.783Z",
   "version": "2.0.0"
 }
