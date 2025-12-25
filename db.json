@@ -197,8 +197,8 @@
         "expired_at_ts": 1766670826448
       }
     },
-    "df76b82a-07df-40c7-aaf0-8e46bdab2b6b": {
-      "id": "df76b82a-07df-40c7-aaf0-8e46bdab2b6b",
+    "94b73850-fd04-4bb0-a0db-0fc9db5d9410": {
+      "id": "94b73850-fd04-4bb0-a0db-0fc9db5d9410",
       "userId": 7569608923,
       "limitAmount": 15,
       "nominal": 3000,
@@ -209,30 +209,9 @@
         "username": "JeryPets",
         "name": "Jery - Help U"
       },
-      "status": "processing",
-      "createdAt": "2025-12-25T15:15:01.080Z",
-      "updatedAt": "2025-12-25T15:15:05.427Z",
-      "qrString": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540433995802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A0163042EC1",
-      "paymentData": {
-        "id": "RO2025122516150416944",
-        "status": "pending",
-        "method": "qris",
-        "currency": {
-          "type": "IDR",
-          "total": 3399,
-          "fee": 84,
-          "diterima": 3315
-        },
-        "total": 3399,
-        "fee": 84,
-        "diterima": 3315,
-        "qr_string": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540433995802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A0163042EC1",
-        "qr_image": "https://www.rumahotp.com/image/qr/RO2025122516150416944.png",
-        "created_at": "2025-12-25 22:15:04",
-        "created_at_ts": 1766675704880,
-        "expired_at": "2025-12-25 22:35:04",
-        "expired_at_ts": 1766676904880
-      }
+      "status": "pending",
+      "createdAt": "2025-12-25T15:18:16.760Z",
+      "updatedAt": "2025-12-25T15:18:16.760Z"
     }
   },
   "missions": {
@@ -269,6 +248,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T15:15:05.427Z",
+  "lastUpdated": "2025-12-25T15:18:16.760Z",
   "version": "2.0.0"
 }
