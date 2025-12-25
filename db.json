@@ -28,14 +28,14 @@
       "username": "JeryPets",
       "firstName": "Jery - Help U",
       "lastName": "",
-      "limit": 19,
-      "usedLimit": 1,
-      "totalGacha": 1,
+      "limit": 20,
+      "usedLimit": 0,
+      "totalGacha": 0,
       "referralCount": 0,
       "missionsCompleted": 1,
       "referralBy": null,
       "joinDate": "2025-12-25T02:46:10.657Z",
-      "lastLogin": "2025-12-25T02:46:10.657Z",
+      "lastLogin": "2025-12-25T12:12:37.437Z",
       "lastReset": "2025-12-25T02:46:10.657Z",
       "role": "user",
       "totalSpent": 0,
@@ -44,8 +44,7 @@
         1
       ],
       "isBanned": false,
-      "lastUpdated": "2025-12-25T12:12:25.132Z",
-      "lastGacha": "2025-12-25T12:12:25.132Z"
+      "lastUpdated": "2025-12-25T12:12:37.437Z"
     },
     "6976551745": {
       "id": 6976551745,
@@ -67,18 +66,7 @@
       "completedMissions": []
     }
   },
-  "items": {
-    "1": {
-      "id": 1,
-      "fileName": "— Sc Cpanel Tele By Fall (1)_1766664738650_snv6tpv3.zip",
-      "originalName": "— Sc Cpanel Tele By Fall (1).zip",
-      "addedDate": "2025-12-25T12:12:19.679Z",
-      "fileSize": 100000,
-      "addedBy": "JeryPets",
-      "filePath": "HADIAH/— Sc Cpanel Tele By Fall (1)_1766664738650_snv6tpv3.zip",
-      "lastVerified": "2025-12-25T12:12:25.131Z"
-    }
-  },
+  "items": {},
   "transactions": {
     "b60aebac-031e-4b9b-afe0-e01242343695": {
       "id": "b60aebac-031e-4b9b-afe0-e01242343695",
@@ -154,6 +142,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T12:12:25.132Z",
+  "lastUpdated": "2025-12-25T12:12:37.437Z",
   "version": "2.0.0"
 }
