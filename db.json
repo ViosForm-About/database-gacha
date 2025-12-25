@@ -83,6 +83,15 @@
       "fileSize": 31669,
       "addedBy": "JeryPets",
       "filePath": "GACHA/Bug-Api EndPoint_1766640598106_19n5basm.zip"
+    },
+    "3": {
+      "id": 3,
+      "fileName": "BASE TELEGRAM 10K_1766640617925_faax4r98.zip",
+      "originalName": "BASE TELEGRAM 10K.zip",
+      "addedDate": "2025-12-25T05:30:18.617Z",
+      "fileSize": 9329,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/BASE TELEGRAM 10K_1766640617925_faax4r98.zip"
     }
   },
   "transactions": {
@@ -160,6 +169,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:29:58.987Z",
+  "lastUpdated": "2025-12-25T05:30:18.617Z",
   "version": "1.0.0"
 }
