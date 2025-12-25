@@ -47,7 +47,16 @@
       "lastUpdated": "2025-12-25T02:46:12.593Z"
     }
   },
-  "items": {},
+  "items": {
+    "1": {
+      "id": 1,
+      "fileName": "thx@Limited#Võcius ♰ Limited.zip",
+      "originalName": "thx@Limited#Võcius ♰ Limited.zip",
+      "addedDate": "2025-12-25T03:02:23.300Z",
+      "fileSize": 14002,
+      "addedBy": "JeryPets"
+    }
+  },
   "transactions": {
     "b60aebac-031e-4b9b-afe0-e01242343695": {
       "id": "b60aebac-031e-4b9b-afe0-e01242343695",
@@ -123,7 +132,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:57:20.741Z",
+  "lastUpdated": "2025-12-25T03:02:23.300Z",
   "totalUsers": 2,
-  "totalItems": 0
+  "totalItems": 1
 }
