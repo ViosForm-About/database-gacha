@@ -119,9 +119,9 @@
         "username": "Drrgamf",
         "name": "ʼThaiDafq`"
       },
-      "status": "processing",
+      "status": "failed",
       "createdAt": "2025-12-25T12:15:52.088Z",
-      "updatedAt": "2025-12-25T12:16:02.075Z",
+      "updatedAt": "2025-12-25T12:17:10.767Z",
       "qrString": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540433835802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A016304E50D",
       "paymentData": {
         "id": "RO2025122513160116787",
@@ -179,6 +179,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T12:16:02.075Z",
+  "lastUpdated": "2025-12-25T12:17:10.767Z",
   "version": "2.0.0"
 }
