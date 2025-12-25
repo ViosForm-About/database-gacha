@@ -48,7 +48,24 @@
     }
   },
   "items": {},
-  "transactions": {},
+  "transactions": {
+    "b60aebac-031e-4b9b-afe0-e01242343695": {
+      "id": "b60aebac-031e-4b9b-afe0-e01242343695",
+      "userId": 1421146514,
+      "limitAmount": 15,
+      "nominal": 3000,
+      "adminFee": 315,
+      "totalAmount": 3315,
+      "paymentGateway": "rumahotp",
+      "userInfo": {
+        "username": "Drrgamf",
+        "name": "ʼThaiDafq`"
+      },
+      "status": "pending",
+      "createdAt": "2025-12-25T02:57:12.693Z",
+      "updatedAt": "2025-12-25T02:57:12.693Z"
+    }
+  },
   "missions": {
     "1": {
       "id": 1,
@@ -83,7 +100,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:57:01.792Z",
+  "lastUpdated": "2025-12-25T02:57:12.693Z",
   "totalUsers": 2,
   "totalItems": 0
 }
