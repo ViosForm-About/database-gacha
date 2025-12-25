@@ -35,7 +35,7 @@
       "missionsCompleted": 1,
       "referralBy": null,
       "joinDate": "2025-12-25T02:46:10.657Z",
-      "lastLogin": "2025-12-25T02:46:10.657Z",
+      "lastLogin": "2025-12-25T05:29:33.666Z",
       "lastReset": "2025-12-25T02:46:10.657Z",
       "role": "user",
       "totalSpent": 0,
@@ -44,7 +44,7 @@
         1
       ],
       "isBanned": false,
-      "lastUpdated": "2025-12-25T02:46:12.593Z"
+      "lastUpdated": "2025-12-25T05:29:33.666Z"
     },
     "6976551745": {
       "id": 6976551745,
@@ -66,16 +66,7 @@
       "completedMissions": []
     }
   },
-  "items": {
-    "1": {
-      "id": 1,
-      "fileName": "Apollo Cursed V4.0.zip",
-      "originalName": "Apollo Cursed V4.0.zip",
-      "addedDate": "2025-12-25T03:02:34.327Z",
-      "fileSize": 4457153,
-      "addedBy": "JeryPets"
-    }
-  },
+  "items": {},
   "transactions": {
     "b60aebac-031e-4b9b-afe0-e01242343695": {
       "id": "b60aebac-031e-4b9b-afe0-e01242343695",
@@ -151,5 +142,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:13:42.597Z"
+  "lastUpdated": "2025-12-25T05:29:33.666Z",
+  "version": "1.0.0"
 }
