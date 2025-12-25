@@ -110,6 +110,15 @@
       "fileSize": 6519,
       "addedBy": "JeryPets",
       "filePath": "GACHA/BASE VOID V12 (2)_1766640676856_ido7ito8.7z"
+    },
+    "6": {
+      "id": 6,
+      "fileName": "CPANEL MANZY SOLO_1766640684357_8ejuveam.zip",
+      "originalName": "CPANEL MANZY SOLO.zip",
+      "addedDate": "2025-12-25T05:31:26.345Z",
+      "fileSize": 4123815,
+      "addedBy": "JeryPets",
+      "filePath": "GACHA/CPANEL MANZY SOLO_1766640684357_8ejuveam.zip"
     }
   },
   "transactions": {
@@ -187,6 +196,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T05:31:17.205Z",
+  "lastUpdated": "2025-12-25T05:31:26.345Z",
   "version": "1.0.0"
 }
