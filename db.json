@@ -35,7 +35,7 @@
       "missionsCompleted": 1,
       "referralBy": null,
       "joinDate": "2025-12-25T02:46:10.657Z",
-      "lastLogin": "2025-12-25T12:12:37.437Z",
+      "lastLogin": "2025-12-25T13:32:23.762Z",
       "lastReset": "2025-12-25T02:46:10.657Z",
       "role": "user",
       "totalSpent": 0,
@@ -44,7 +44,7 @@
         1
       ],
       "isBanned": false,
-      "lastUpdated": "2025-12-25T12:12:37.437Z"
+      "lastUpdated": "2025-12-25T13:32:23.762Z"
     },
     "6976551745": {
       "id": 6976551745,
@@ -179,6 +179,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T12:17:10.767Z",
+  "lastUpdated": "2025-12-25T13:32:23.763Z",
   "version": "2.0.0"
 }
