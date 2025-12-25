@@ -61,9 +61,32 @@
         "username": "Drrgamf",
         "name": "ʼThaiDafq`"
       },
-      "status": "pending",
+      "status": "processing",
       "createdAt": "2025-12-25T02:57:12.693Z",
-      "updatedAt": "2025-12-25T02:57:12.693Z"
+      "updatedAt": "2025-12-25T02:57:20.741Z",
+      "paymentId": "RO2025122503572016280",
+      "qrString": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540434335802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A016304C950",
+      "expiryTime": "2025-12-26T02:57:20.741Z",
+      "paymentData": {
+        "id": "RO2025122503572016280",
+        "status": "pending",
+        "method": "qris",
+        "currency": {
+          "type": "IDR",
+          "total": 3433,
+          "fee": 118,
+          "diterima": 3315
+        },
+        "total": 3433,
+        "fee": 118,
+        "diterima": 3315,
+        "qr_string": "00020101021226670016COM.NOBUBANK.WWW01189360050300000879140214250825000006680303UMI51440014ID.CO.QRIS.WWW0215ID20254297557180303UMI520448125303360540434335802ID5920CINDIGITAL OK25956226007CILACAP61055321162070703A016304C950",
+        "qr_image": "https://www.rumahotp.com/image/qr/RO2025122503572016280.png",
+        "created_at": "2025-12-25 09:57:20",
+        "created_at_ts": 1766631440221,
+        "expired_at": "2025-12-25 10:17:20",
+        "expired_at_ts": 1766632640221
+      }
     }
   },
   "missions": {
@@ -100,7 +123,7 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T02:57:12.693Z",
+  "lastUpdated": "2025-12-25T02:57:20.741Z",
   "totalUsers": 2,
   "totalItems": 0
 }
