@@ -64,6 +64,25 @@
       "totalSpent": 0,
       "purchasedLimit": 0,
       "completedMissions": []
+    },
+    "7444761999": {
+      "id": 7444761999,
+      "username": "hanzzx374",
+      "firstName": "⏤͟͟͞͞Xv7 || Hanzzx375",
+      "lastName": "",
+      "limit": 15,
+      "usedLimit": 0,
+      "totalGacha": 0,
+      "referralCount": 0,
+      "missionsCompleted": 0,
+      "referralBy": null,
+      "joinDate": "2025-12-26T02:34:24.043Z",
+      "lastLogin": "2025-12-26T02:34:24.043Z",
+      "lastReset": "2025-12-26T02:34:24.043Z",
+      "role": "user",
+      "totalSpent": 0,
+      "purchasedLimit": 0,
+      "completedMissions": []
     }
   },
   "items": {},
@@ -306,6 +325,6 @@
       "requirement": 30
     }
   },
-  "lastUpdated": "2025-12-25T15:26:21.808Z",
+  "lastUpdated": "2025-12-26T02:34:24.043Z",
   "version": "2.0.0"
 }
